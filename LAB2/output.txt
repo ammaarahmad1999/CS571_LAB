@@ -1,0 +1,24 @@
+Solution not found
+Found a local maxima!
+B  T8 T3 
+T4 T1 T5 
+T2 T7 T6 
+
+Heuristic chosen = Total Manhattan distance
+The chosen heurisitc is admissible
+
+Temperature chosen = 100
+Cooling function chosen = Linear cooling
+Start state: 
+T8 T3 T5 
+T4 T1 T6 
+T2 T7 B  
+
+
+Goal state: 
+T1 T2 T3 
+T8 B  T4 
+T7 T6 T5 
+
+Total number of states explored = 6
+Time amount of time taken = 0.043639 seconds

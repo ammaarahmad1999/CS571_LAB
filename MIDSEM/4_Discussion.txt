@@ -1,0 +1,13 @@
+Discussion between multivariate vs multinomial model with respect to this problem:
+
+Obversation:
+Both predict the same class CV for test sentence
+
+Preference between Multinomial and Multivariate:
+
+Multinomial model over Multivariate model because in general Multinomial Naive Bayes CLassifier performs better than Multivariate Naive Bayes Classifier. Multivariate model uses binary occurence information and ignore number of occurences hence leads to error in long sentence prediction
+
+
+Efficiency of Computation Power
+
+Both Multinomial and Multivariate models are similar w.r.t efficiency in computational power because they have similar time complexity
